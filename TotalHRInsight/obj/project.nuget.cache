@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B1+09I8vYZ6vLhj5tCfU2trDDAvQjgj36xWpmp3ESK7W93C/N7zm1isjMEl/EnWsvinnnutBFvMK75XpqVIdsw==",
+  "dgSpecHash": "l99wOKX41nyKDPQ2YZnaILheyoksWynWewSpnS8PcRk8q5ZLiYGMzIenL/ppQakH5smh8+HYznp5PC9MX3yE2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\josue\\OneDrive\\Escritorio\\ProyectoUniversidad\\TotalHRInsight\\TotalHRInsight\\TotalHRInsight.csproj",
   "expectedPackageFiles": [
@@ -61,7 +61,10 @@
     "C:\\Users\\josue\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\josue\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+    "C:\\Users\\josue\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\josue\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.3\\microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\josue\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.3\\microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\josue\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }

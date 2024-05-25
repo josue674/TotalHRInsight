@@ -17,7 +17,7 @@ namespace TotalHRInsight.DAL
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //var connectionString = "server=127.0.0.1;database=Prueba;User=root;Password=123456789";
-            var connectionString = "server=roundhouse.proxy.rlwy.net;port=13730;database=railway;User=root;Password=SATvDqTvIJapCGnqWxNawRJWhYclPVos";
+            var connectionString = "server=viaduct.proxy.rlwy.net;database=railway;port=32013;User=root;Password=hVYCFgtlWkqHIiqyhWjcOCCNVhHxELRS";
             //var connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
 
             base.OnConfiguring(optionsBuilder);
