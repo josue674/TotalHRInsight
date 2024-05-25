@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
+var connectionString = builder.Configuration.GetConnectionString("ConnTHRIDB");
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
