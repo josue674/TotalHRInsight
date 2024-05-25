@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalHRInsight", "TotalHRInsight\TotalHRInsight.csproj", "{71EFFF27-8932-49D6-A670-91F95CA46B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalHRInsight.DAL", "TotalHRInsight.DAL\TotalHRInsight.DAL.csproj", "{B7FB305E-0D70-4A65-8D22-314F0D68D6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EFFF27-8932-49D6-A670-91F95CA46B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EFFF27-8932-49D6-A670-91F95CA46B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EFFF27-8932-49D6-A670-91F95CA46B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EFFF27-8932-49D6-A670-91F95CA46B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FB305E-0D70-4A65-8D22-314F0D68D6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FB305E-0D70-4A65-8D22-314F0D68D6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FB305E-0D70-4A65-8D22-314F0D68D6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FB305E-0D70-4A65-8D22-314F0D68D6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F89B6007-11CE-4EBD-9A61-39C87B93B0D0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@TotalHRInsight_HostAddress = http://localhost:7292
+
+GET {{TotalHRInsight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
