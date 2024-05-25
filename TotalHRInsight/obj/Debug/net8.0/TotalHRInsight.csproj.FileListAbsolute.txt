@@ -115,3 +115,4 @@ C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRIns
 C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight\obj\Debug\net8.0\TotalHRInsight.pdb
 C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight\obj\Debug\net8.0\TotalHRInsight.genruntimeconfig.cache
 C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight\obj\Debug\net8.0\ref\TotalHRInsight.dll
+C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight\obj\Debug\net8.0\TotalHRInsight.sourcelink.json

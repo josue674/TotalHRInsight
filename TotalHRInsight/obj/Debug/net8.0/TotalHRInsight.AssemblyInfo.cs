@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TotalHRInsight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7276dad0e6db87be35d636ac637f609d5de460e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TotalHRInsight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TotalHRInsight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

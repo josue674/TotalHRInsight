@@ -12,3 +12,4 @@ C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRIns
 C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight.DAL\obj\Debug\net8.0\TotalHRInsight.DAL.pdb
 C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight.DAL\obj\Debug\net8.0\TotalHRInsight.DAL.genruntimeconfig.cache
 C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight.DAL\obj\Debug\net8.0\ref\TotalHRInsight.DAL.dll
+C:\Users\josue\OneDrive\Escritorio\ProyectoUniversidad\TotalHRInsight\TotalHRInsight.DAL\obj\Debug\net8.0\TotalHRInsight.DAL.sourcelink.json
